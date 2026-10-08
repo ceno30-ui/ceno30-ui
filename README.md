@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Conor+Miller;Student%2C+athlete%2C+snowboarder." alt="Typing banner for Conor's profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Conor+Eno;Student%2C+athlete%2C+snowboarder." alt="Typing banner for Conor Eno's profile" />
 </div>
 
 <p align="center">
@@ -35,7 +35,7 @@
     <circle cx="790" cy="90" r="58" fill="#22D3EE" opacity="0.12"/>
     <path d="M110 120L180 50L250 120" stroke="#8B5CF6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
     <path d="M650 120L720 50L790 120" stroke="#22D3EE" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
-    <text x="450" y="102" text-anchor="middle" font-size="42" font-weight="700" font-family="Segoe UI, sans-serif" fill="url(#grad)" filter="url(#glow)">Conor's Life</text>
+    <text x="450" y="102" text-anchor="middle" font-size="42" font-weight="700" font-family="Segoe UI, sans-serif" fill="url(#grad)" filter="url(#glow)">Conor Eno</text>
     <text x="450" y="138" text-anchor="middle" font-size="18" font-weight="500" font-family="Segoe UI, sans-serif" fill="#E2E8F0" opacity="0.9">Snowboarding, school, sports, and everything in between</text>
   </svg>
 </div>
