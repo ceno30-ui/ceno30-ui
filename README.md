@@ -1,16 +1,33 @@
-## Hi there 👋
+cat > README.md <<'EOF'
+# 👋 Hey, I'm Conor
 
-<!--
-**ceno30-ui/ceno30-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Building a personal knowledge system with Obsidian
 
-Here are some ideas to get you started:
+I'm using **Obsidian + Markdown + GitHub** to organize school, personal projects, notes, ideas, and everything else I want to keep track of.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Canvas tells me what I need to do.  
+> Obsidian helps me organize, understand, and remember it.**
+
+---
+
+## 🗺️ My Vault
+
+```text
+📁 Conor_Obsidian_Vault
+│
+├── 🏠 README.md
+│
+├── 👤 Personal
+│   ├── Personal Dashboard
+│   ├── Profile
+│   ├── Sports
+│   └── Bikes
+│
+└── 🎓 School
+    ├── 🧬 Biology
+    ├── 📖 English
+    ├── 🧑‍🎓 Freshman Seminar
+    ├── 🏛️ History
+    ├── ➗ Math
+    ├── 🇪🇸 Spanish
+   
